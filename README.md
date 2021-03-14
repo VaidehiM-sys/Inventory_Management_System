@@ -1,2 +1,2 @@
-# Assignment13
- Node.js, MongoDB, Express.js
+# Inventory Management System
+
